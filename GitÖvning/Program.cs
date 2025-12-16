@@ -6,6 +6,9 @@ internal static class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, grupp 2!");
-        Console.WriteLine("Palina");
+        Console.WriteLine("Hello, from Palina");
+        Console.WriteLine("Hello, from Palina");
+        Console.WriteLine("Hello, from Palina");
+        Console.WriteLine("Hello, from Palina");
     }
 }
