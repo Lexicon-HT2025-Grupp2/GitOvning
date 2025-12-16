@@ -12,5 +12,9 @@ internal static class Program
         Console.WriteLine("Hello, From Tony!");
         Console.WriteLine("Hello, From Tony!");
         Console.WriteLine("Hello, grupp 2!");
+        Console.WriteLine("Hello, from Palina");
+        Console.WriteLine("Hello, from Palina");
+        Console.WriteLine("Hello, from Palina");
+        Console.WriteLine("Hello, from Palina");
     }
 }
